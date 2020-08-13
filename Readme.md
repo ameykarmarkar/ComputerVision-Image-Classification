@@ -11,4 +11,5 @@ Performed transfer learning using VGG16 and VGG19 model.
 Used the Image Augmentation method to increase the dataest for training and imorove the model provided by Tensorflow and Keras.
 
 Output - 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Ouptut1](https://github.com/ameykarmarkar/ComputerVision-Image-Classification/blob/master/EmergencyVehicle.PNG)
+![Ouptut2](https://github.com/ameykarmarkar/ComputerVision-Image-Classification/blob/master/Non-EmergencyVehicle.PNG)
